@@ -37,8 +37,6 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    ".storybook/main.ts",
-    ".storybook/preview.tsx",
     "next-env.d.ts",
     ".next/types/**/*.ts"
   ],
